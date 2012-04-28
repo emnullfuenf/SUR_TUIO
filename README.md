@@ -14,6 +14,10 @@ Orientation of fingers and objects will follow.
 
 _____
 
+Download Windows 7 Binary: https://github.com/downloads/emnullfuenf/SUR_TUIO/SUR_TUIO_v0.1.zip
+
+_____
+
 
 Based on Dominik Schmidt's .NET/C# TUIO server (http://www.dominikschmidt.net/2010/11/net-c-tuio-server/)
 
